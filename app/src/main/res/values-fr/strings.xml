@@ -565,7 +565,7 @@
   <string name="PendingMembersActivity_pending_group_invites">Invitations au groupe en attente</string>
   <string name="PendingMembersActivity_requests">Demandes</string>
   <string name="PendingMembersActivity_invites">Invitations</string>
-  <string name="PendingMembersActivity_people_you_invited">Les personnes que vous avez invitées</string>
+  <string name="PendingMembersActivity_people_you_invited">Personnes que vous avez invitées</string>
   <string name="PendingMembersActivity_you_have_no_pending_invites">Vous n’avez aucune invitation en attente.</string>
   <string name="PendingMembersActivity_invites_by_other_group_members">Invitations par d’autres membres du groupe</string>
   <string name="PendingMembersActivity_no_pending_invites_by_other_group_members">Il n’y a aucune invitation par d’autres membres du groupe en attente.</string>
@@ -1924,7 +1924,7 @@
   <string name="arrays__mute_for_one_hour">Sourdine pendant 1 heure</string>
   <string name="arrays__mute_for_two_hours">Sourdine pendant 2 heures</string>
   <string name="arrays__mute_for_one_day">Sourdine pendant 1 jour</string>
-  <string name="arrays__mute_for_seven_days">Sourdine pendant sept jours</string>
+  <string name="arrays__mute_for_seven_days">Sourdine pendant 7 jours</string>
   <string name="arrays__mute_for_one_year">Sourdine pendant 1 an</string>
   <string name="arrays__settings_default">Paramètre par défaut</string>
   <string name="arrays__enabled">Activé</string>

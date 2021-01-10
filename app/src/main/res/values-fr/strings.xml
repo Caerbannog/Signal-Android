@@ -1107,7 +1107,7 @@
   <string name="MessageRequestBottomView_unblock_this_group_and_share_your_name_and_photo_with_its_members">Débloquer ce groupe et partager votre nom et votre photo avec ses membres ? Vous ne recevrez aucun message tant que vous ne l’aurez pas débloqué.</string>
   <string name="MessageRequestProfileView_member_of_one_group">Membre de %1$s</string>
   <string name="MessageRequestProfileView_member_of_two_groups">Membre de %1$s et de %2$s</string>
-  <string name="MessageRequestProfileView_member_of_many_groups">Membre de %1$s, de%2$s et de %3$s</string>
+  <string name="MessageRequestProfileView_member_of_many_groups">Membre de %1$s, de %2$s et de %3$s</string>
   <plurals name="MessageRequestProfileView_members">
     <item quantity="one">%1$d membre</item>
     <item quantity="other">%1$d membres</item>

@@ -129,7 +129,7 @@
   <string name="CameraContacts_no_signal_contacts">Aucun contact Signal</string>
   <string name="CameraContacts_you_can_only_use_the_camera_button">Vous ne pouvez utiliser le bouton Appareil photo que pour envoyer des photos à des contacts Signal.</string>
   <string name="CameraContacts_cant_find_who_youre_looking_for">Éprouvez-vous des difficultés à trouver qui vous cherchiez ?</string>
-  <string name="CameraContacts_invite_a_contact_to_join_signal">Inviter un contact à se joindre à Signal</string>
+  <string name="CameraContacts_invite_a_contact_to_join_signal">Inviter un contact à rejoindre à Signal</string>
   <string name="CameraContacts__menu_search">Chercher</string>
   <!--ClearProfileActivity-->
   <string name="ClearProfileActivity_remove">Supprimer</string>
@@ -583,7 +583,7 @@
   <!--RequestingMembersFragment-->
   <string name="RequestingMembersFragment_pending_member_requests">Demandes de membres en attente</string>
   <string name="RequestingMembersFragment_no_member_requests_to_show">Il n’y a aucune demande de membre à afficher.</string>
-  <string name="RequestingMembersFragment_explanation">Des personnes de cette liste tentent de se joindre à ce groupe grâce au lien de groupe.</string>
+  <string name="RequestingMembersFragment_explanation">Des personnes de cette liste tentent de rejoindre à ce groupe grâce au lien de groupe.</string>
   <string name="RequestingMembersFragment_added_s">« %1$s » a été ajouté</string>
   <string name="RequestingMembersFragment_denied_s">« %1$s » a été refusé</string>
   <!--AddMembersActivity-->
@@ -1844,7 +1844,7 @@
   <string name="unknown_sender_view__add_to_contacts">AJOUTER AUX CONTACTS</string>
   <string name="unknown_sender_view__don_t_add_but_make_my_profile_visible">NE PAS AJOUTER, MAIS RENDRE MON PROFIL VISIBLE</string>
   <!--verify_display_fragment-->
-  <string name="verify_display_fragment__if_you_wish_to_verify_the_security_of_your_end_to_end_encryption_with_s"><![CDATA[Si vous souhaitez confirmer la sécurité de votre chiffrement avec %s, comparez le numéro ci-dessus avec le numéro sur son appareil. Vous pouvez autrement balayer le code sur son téléphone ou lui demander de balayer votre code. <a href="https://signal.org/redirect/safety-numbers">En savoir plus</a>.]]></string>
+  <string name="verify_display_fragment__if_you_wish_to_verify_the_security_of_your_end_to_end_encryption_with_s"><![CDATA[Si vous souhaitez confirmer la sécurité de votre chiffrement avec %s, comparez le numéro ci-dessus avec le numéro sur son appareil. Vous pouvez aussi balayer le code sur son téléphone ou lui demander de balayer votre code. <a href="https://signal.org/redirect/safety-numbers">En savoir plus</a>.]]></string>
   <string name="verify_display_fragment__tap_to_scan">Touchez pour balayer</string>
   <string name="verify_display_fragment__loading">Chargement…</string>
   <string name="verify_display_fragment__verified">Confirmé</string>

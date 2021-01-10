@@ -634,7 +634,7 @@
   <string name="ManageGroupActivity_disappearing_messages">Messages éphémères</string>
   <string name="ManageGroupActivity_member_requests_and_invites">Demandes et invitations de membres</string>
   <string name="ManageGroupActivity_add_members">Ajouter des membres</string>
-  <string name="ManageGroupActivity_edit_group_info">Modifier les renseignements du groupe</string>
+  <string name="ManageGroupActivity_edit_group_info">Modifier les infos</string>
   <string name="ManageGroupActivity_who_can_add_new_members">Qui peut ajouter de nouveaux membres ?</string>
   <string name="ManageGroupActivity_who_can_edit_this_groups_info">Qui peut modifier les renseignements de ce groupe ?</string>
   <string name="ManageGroupActivity_group_link">Lien de groupe</string>

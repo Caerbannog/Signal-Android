@@ -2213,26 +2213,26 @@
   <string name="trimmer__old_messages_successfully_deleted">Les anciens messages ont été supprimés avec succès</string>
   <!--Insights-->
   <string name="Insights__percent"> %</string>
-  <string name="Insights__title">Aperçu</string>
-  <string name="InsightsDashboardFragment__title">Aperçu</string>
-  <string name="InsightsDashboardFragment__signal_protocol_automatically_protected">Le protocole Signal a protégé automatiquement %1$d %% de vos messages sortants au cours des %2$d derniers jours. Les conversations entre les utilisateurs de Signal sont toujours chiffrées de bout en bout.</string>
+  <string name="Insights__title">Statistiques</string>
+  <string name="InsightsDashboardFragment__title">Statistiques</string>
+  <string name="InsightsDashboardFragment__signal_protocol_automatically_protected">Le protocole Signal a protégé automatiquement %1$d%% de vos messages sortants au cours des %2$d derniers jours. Les conversations entre les utilisateurs de Signal sont toujours chiffrées de bout en bout.</string>
   <string name="InsightsDashboardFragment__boost_your_signal">Amélioration par Signal</string>
   <string name="InsightsDashboardFragment__not_enough_data">Pas assez de données</string>
-  <string name="InsightsDashboardFragment__your_insights_percentage_is_calculated_based_on">Votre pourcentage d’Aperçu est calculé d’après le nombre de messages sortants qui n’ont ni disparu ni été supprimés au cours des %1$d derniers jours.</string>
+  <string name="InsightsDashboardFragment__your_insights_percentage_is_calculated_based_on">Votre pourcentage est calculé d’après le nombre de messages sortants qui n’ont ni disparu ni été supprimés au cours des %1$d derniers jours.</string>
   <string name="InsightsDashboardFragment__start_a_conversation">Lancer une conversation</string>
   <string name="InsightsDashboardFragment__invite_your_contacts">Commencez à communiquer en toute sécurité et activez de nouvelles fonctions qui dépassent les limites des textos non chiffrés en invitant plus de contacts à se joindre à Signal.</string>
   <string name="InsightsDashboardFragment__this_stat_was_generated_locally">Ces statistiques ont été générées localement sur votre appareil et ne peuvent être vues que par vous. Elles ne sont jamais transmises où que ce soit.</string>
   <string name="InsightsDashboardFragment__encrypted_messages">Messages chiffrés</string>
   <string name="InsightsDashboardFragment__cancel">Annuler</string>
   <string name="InsightsDashboardFragment__send">Envoyer</string>
-  <string name="InsightsModalFragment__title">Nous présentons Aperçu</string>
+  <string name="InsightsModalFragment__title">Découvrez les statistiques</string>
   <string name="InsightsModalFragment__description">Découvrez combien de vos messages sortants ont été envoyés de manière sécurisée, puis invitez rapidement de nouveaux contacts pour améliorer votre pourcentage Signal.</string>
-  <string name="InsightsModalFragment__view_insights">Visualiser Aperçu</string>
+  <string name="InsightsModalFragment__view_insights">Voir les statistiques</string>
   <string name="FirstInviteReminder__title">Inviter à Signal</string>
   <string name="FirstInviteReminder__description">Vous pourriez augmenter le nombre de messages chiffrés que vous envoyez de %1$d %%</string>
   <string name="SecondInviteReminder__title">Améliorez votre Signal</string>
   <string name="SecondInviteReminder__description">Inviter %1$s</string>
-  <string name="InsightsReminder__view_insights">Visualiser Aperçu</string>
+  <string name="InsightsReminder__view_insights">Voir les statistiques</string>
   <string name="InsightsReminder__invite">Inviter</string>
   <!--Edit KBS Pin-->
   <!--BaseKbsPinFragment-->
